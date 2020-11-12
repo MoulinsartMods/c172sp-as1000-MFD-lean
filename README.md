@@ -62,4 +62,4 @@ No need to adjust the mixture, you can keep it lean as the engine should be set 
 9. Before landing
 Enrich your mixture back up (to 91% or less for a high-altitude airfield, see (1)) so maximum power will be available in case of a missed approach. 
 
-* Christophe Arribat a.k.a. Haddock, November 2020 *
+*Christophe Arribat a.k.a. Haddock, November 2020*
