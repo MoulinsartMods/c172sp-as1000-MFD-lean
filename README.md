@@ -3,7 +3,7 @@
 This mod's goal is to give you more information about the engine on the G1000 MFD screen, to help with setting the mixture; there is zero modifications to flying characteristics or performance.
 This mod requires the "Working Title G1000 Mod" (v0.3.2 or later). 
 
-# CESSNA 172S MIXTURE SETTING IN MSFS
+## CESSNA 172S MIXTURE SETTING IN MSFS
 (based on docs available from Cessna, Garmin, and experience with the limitations of MSFS)
  
 1. Run-up: determining "max RPM mixture".
