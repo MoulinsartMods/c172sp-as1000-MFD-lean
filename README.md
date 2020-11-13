@@ -51,7 +51,7 @@ Regularly, after leaning, check the Cylinder Head Temperatures (CHT), that's the
 Now, the G1000 gauges set the red line at 500°F but let's simulate reality here: someone paying for his engine maintenance bills will never let the CHT go that high.
 
 To deal with a high CHT, do either :
-- Enrich the mixture - if you're in Economy Cruise, go to Power Cruise (see (5)).
+- Enrich the mixture - you may have to go richer than Power Cruise (see (5)), try something like 100 °F rich of peak.
 - Reduce power a bit - pull the throttle, therefore reducing RPM.
 
 Your EGT will quickly go down, and your CHT should follow. Keep in mind that contrary to EGT, CHT change very slowly.
