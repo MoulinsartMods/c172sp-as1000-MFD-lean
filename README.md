@@ -27,7 +27,7 @@ Every few minutes, lean the mixture slightly to keep the engine at maximum RPM.
 4. Cruising.
 After reaching your chosen cruise altitude, set your throttle for cruise power. The manual calls for cruising at 75% of max power or less; it's easy to set, you only have to make sure the RPM needle is in the green area, which will change according to altitude:
 - 2500 RPM max below 5 000 ft
-- 2600 RPM max below 10 000 ft
+- 2600 RPM max between 5 000 ft and 10 000 ft
 - 2700 RPM max above 10 000 ft.
 
 5. Leaning to "Peak / Rich of Peak".
@@ -38,7 +38,7 @@ On the G1000 MFD, click the "ENGINE" softkey then "LEAN".
 
 There are two officially recommended leaning settings : 
 - Best Economy     - Lean the mixture slowly until the Exhaust Gas Temperature (EGT) peaks. Done. 
-- Recommended Lean - First lean to Economy Cruise, then enrich the mixture slowly until the EGT is down 50 °F from the peak.
+- Recommended Lean - First lean to Best Economy, then enrich the mixture slowly until the EGT is down 50 °F from the peak.
 
 6. Leaning to "Lean of Peak".
 The Lycoming IO-360-L2A powering the 172S is NOT certified for "Lean of Peak" operation.
