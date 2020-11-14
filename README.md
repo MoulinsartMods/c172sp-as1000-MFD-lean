@@ -44,7 +44,7 @@ There are two officially recommended leaning settings :
 The Lycoming IO-360-L2A powering the 172S is NOT certified for "Lean of Peak" operation.
 
 7. Checking CHT.
-Regularly, after leaning, check the Cylinder Head Temperatures (CHT), that's the best way to know if your engine is happy with your settings. 
+Regularly, starting a few minutes after leaning, check the Cylinder Head Temperatures (CHT), that's the best way to know if your engine is happy with your settings. 
 - a CHT below 400 °F is perfect.
 - a CHT of 400 to 420 °F is acceptable.
 - a CHT over 420 °F should be dealt with.
